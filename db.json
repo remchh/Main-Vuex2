@@ -71,6 +71,20 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 4271524,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Test1",
+      "description": "testing1",
+      "location": "SPS",
+      "date": "2021-04-11T04:03:00.000Z",
+      "time": "15:00",
+      "attendees": []
     }
   ]
 }
