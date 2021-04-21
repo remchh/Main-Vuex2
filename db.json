@@ -259,6 +259,20 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 6542123,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Rafael"
+      },
+      "title": "new test!!",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
